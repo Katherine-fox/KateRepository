@@ -5,63 +5,73 @@
       "id": 1,
       "category": "Shampoo",
       "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "price": "25$"
+      "price": "25$",
+      "pict": "http://placehold.it/700x400"
+      
     },
     {
         "itemName": "Shampoo 2",
         "id": 2,
         "category": "Shampoo",
         "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "price": "25$"
+        "price": "25$",
+        "pict": "http://placehold.it/700x400"
       },
     {
         "itemName": "Shampoo 3",
         "id": 3,
         "category": "Shampoo",
         "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "price": "25$"
+        "price": "25$",
+        "pict": "http://placehold.it/700x400"
     },
     {
         "itemName": "Mask 1",
         "id": 4,
         "category": "Mask",
         "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "price": "40$"
+        "price": "40$",
+        "pict": "http://placehold.it/700x400"
       },
       {
         "itemName": "Mask 2",
         "id": 5,
         "category": "Mask",
         "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "price": "40$"
+        "price": "40$",
+        "pict": "http://placehold.it/700x400"
       },
       {
         "itemName": "Mask 3",
         "id": 6,
         "category": "Mask",
         "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "price": "40$"
+        "price": "40$",
+        "pict": "http://placehold.it/700x400"
       },
       {
         "itemName": "Serum 1",
         "id": 7,
         "category": "Serum",
         "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "price": "30$"
+        "price": "30$",
+        "pict": "http://placehold.it/700x400"
       },
       {
         "itemName": "Serum 2",
         "id": 8,
         "category": "Serum",
         "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "price": "30$"
+        "price": "30$",
+        "pict": "http://placehold.it/700x400"
       },
       {
         "itemName": "Serum 3",
         "id": 9,
         "category": "Serum",
         "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "price": "30$"
+        "price": "30$",
+        "pict": "http://placehold.it/700x400"
       }
 ],
     "profile": {
